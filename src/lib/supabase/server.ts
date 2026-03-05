@@ -1,4 +1,4 @@
-"use server"
+// Server-side Supabase client factory (imported by server actions)
 
 import { createClient } from "@supabase/supabase-js"
 
