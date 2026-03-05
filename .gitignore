@@ -36,6 +36,10 @@ yarn-error.log*
 # vercel
 .vercel
 
+# repomix (keep config, exclude output)
+*repomix-output*
+*repomix*.xml
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
